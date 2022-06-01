@@ -1,8 +1,9 @@
 import React from "react";
+import AppRouter from "./Router";
 
 function App() {
   return (
-    <h1>Fuck</h1>
+    <AppRouter />
   );
 }
 
